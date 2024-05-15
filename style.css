@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+body{
+
+    background: color #f4f4f4;
+    font-family: "Open Sans", sans-serif;
+}
+section{
+    width: 1200px;
+    margin: 0 auto;
+}
+header .logotipo{
+    float: left;
+}
+header .suporte{
+    float: right;
+}
+.logotipo img{
+    width: 200px;
+}
